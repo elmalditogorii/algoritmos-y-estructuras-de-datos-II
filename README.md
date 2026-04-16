@@ -1,0 +1,5 @@
+-Nombre: Alex Slavinskas- Trabajo practico 1- Se creó una clase base llamada Vehiculo, que contiene los atributos marca y velocidad máxima. Luego se implementaron dos clases: Auto, que agrega la cantidad de puertas, y Moto, que agrega
+el tipo de moto. Cada clase define el método describir para mostrar la información específica de cada vehículo. Finalmente, se crea una lista de objetos y se recorre para imprimir
+sus características en pantalla.- Trabajo practico 2- En este ejercicio se trabajó con herencia y cálculo de áreas. Se creó una clase base llamada Figura, que incluye el atributo color y un método area que luego es redefinido por las subclases.
+Se implementaron dos clases: Rectangulo, que calcula el área multiplicando base por altura, y Circulo, que calcula el área utilizando la fórmula π por radio al cuadrado con la librería math.
+Cada figura tiene su propio método describir, que muestra sus datos junto con el área calculada. Se genera una lista de figuras y se recorre para mostrar la información de cada una.
